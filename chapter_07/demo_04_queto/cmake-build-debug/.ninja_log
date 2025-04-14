@@ -1,0 +1,7 @@
+# ninja log v6
+2	161	7663492288790811	CMakeFiles/demo_04_queto.dir/main.cpp.obj	20020c9bacee8421
+128	222	7663503625151835	modify_pointer.exe	b2b4fe5e72ae3191
+162	263	7663492290393387	demo_04_queto.exe	be226dc94e578952
+2	128	7663503623895006	CMakeFiles/modify_pointer.dir/modify_pointer.cpp.obj	5ef90d504b1f180e
+1	128	7663505219616304	CMakeFiles/bool.dir/bool.cpp.obj	1c2431bc13c5cfdd
+129	218	7663505220893391	bool.exe	1033b0a4085cc04d

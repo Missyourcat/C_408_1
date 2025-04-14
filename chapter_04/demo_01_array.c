@@ -1,0 +1,10 @@
+//
+// Created by Missyourcat on 2025/4/12.
+//
+#include<stdio.h>
+int main()
+{
+    int a[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int b[10] = {0};
+    return 0;
+}

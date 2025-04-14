@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "demo_04_queto",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool-Debug-59009a1de53256bc8297.json",
+					"name" : "bool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_04_queto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_04_queto-Debug-71b578dfada27544cc3d.json",
+					"name" : "demo_04_queto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "modify_pointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-modify_pointer-Debug-95b30a418d31d754c82d.json",
+					"name" : "modify_pointer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/C_408_1/chapter_07/demo_04_queto/cmake-build-debug",
+		"source" : "D:/Code/C_408_1/chapter_07/demo_04_queto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
